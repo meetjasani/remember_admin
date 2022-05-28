@@ -1,0 +1,4 @@
+export const IS_LOADING = 'IS_LOADING';
+export const CHANGE_LOGIN_STATE = "CHANGE_LOGIN_STATE";
+export const IS_TOGGLE_MENU = 'IS_TOGGLE_MENU';
+export const CHANGE_MENU_STATE = 'CHANGE_MENU_STATE';

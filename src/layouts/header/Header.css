@@ -1,0 +1,171 @@
+.list_icon {
+    outline: none;
+}
+
+.position-fixed {
+    background: #FFFFFF;
+    font-family: SpoqaHanSans;
+}
+
+.img-h-w {
+    width: 138px;
+    height: 47px;
+    margin-right: 172px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.header-link .header-tab {
+    color: #989898;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-right: 60px;
+    cursor: pointer;
+    border:none !important;
+    background-color:transparent !important;
+    font-family: Spoqa Han Sans Neo;
+    padding:0 !important;
+    /* width:98px; */
+    /* margin: 0 !important; */
+}
+
+.header-link .header-tab-active {
+    font-size: 16px;
+    margin-right: 51px;
+    cursor: pointer;
+    padding:0 !important;
+    background-color: #FFB932;
+    border-radius: 100px;
+    font-family: Spoqa Han Sans Neo;
+    font-style: normal;
+    font-weight: bold;
+    border:none !important;
+    color:#fff;
+    height:33px;
+    width:98px !important;
+    /* padding:4px 17px 5px 17px !important; */
+    
+
+}
+
+
+/* .Member-Settings-h-w{
+    width: 98px;
+    height: 33px;
+    margin-right: 43px;
+    color: #989898;
+    font-size: 16px;    
+    font-style: normal;
+    font-weight:400;
+}
+
+.Memorial-Hall-Settings-h-w{
+    width: 80px;
+    height: 24px;
+    margin-right: 60px;
+    color: #989898;
+    font-size: 16px;
+    font-weight:400;
+   
+}
+
+.Other-Settings-h-w{
+    width: 64px;
+    height: 24px;
+    color: #989898;
+    font-size: 16px;
+    font-weight:400;
+} */
+
+.img-admin-set {
+    display: flex;
+    width: 120.97px;
+    height: 28px;
+    align-items: center;
+    line-height: 50%;
+}
+
+.img-admin-set h4 {
+    color: #989898;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+}
+
+.img-admin-set img {
+    margin-right: 14px;
+    width: 28px;
+    height: 28px;
+}
+
+.mr-14 {
+    margin-right: 14px;
+}
+
+.navbar {
+    padding-right: 50.03px !important;
+    z-index: 99;
+    padding-left: 60px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+}
+
+.ml-15 {
+    margin-left: 15.66px;
+    align-items: center;
+}
+
+.c-sidebar-nav-link {
+    width: 370px;
+    padding: 29px 40px 29px 60px !important;
+    height: 80px;
+    font-size: 18px;
+    color: #0C0C0C;
+}
+
+.c-sidebar-nav-link:hover {
+    background-color: #D0D0D0 !important;
+    text-decoration: none !important;
+    color: #0C0C0C !important;
+}
+
+.logout-btn-header a {
+    font-family: Spoqa Han Sans Neo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    color: #989898 !important;
+}
+
+.h-28 {
+    height: 28px;
+    line-height: 28px;
+}
+
+.mt-2- {
+    margin-top: -10px;
+}
+
+.profile-dropdown{
+    background:transparent !important;
+    border:none !important;
+    font-weight: bold;
+    font-family: Spoqa Han Sans Neo;
+font-size: 18px !important;
+color: #989898 !important;
+padding: 0 !important;
+}
+
+.profile-dropdown-menu{
+    font-weight: bold;
+    font-family: Spoqa Han Sans Neo;
+font-size: 18px !important;
+color: #989898 !important;
+}
+
+.profile-dropdown::after {
+    display: none;
+}
